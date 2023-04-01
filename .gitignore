@@ -1,0 +1,5 @@
+.vscode
+debug/obj/*.d
+debug/obj/*.o
+debug/dapt
+debug/*.*
